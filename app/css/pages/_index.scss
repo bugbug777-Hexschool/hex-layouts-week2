@@ -4,6 +4,12 @@
 }
 
 // Images
+.img-link {
+    img:hover {
+        // 透明白底的效果做不出來
+        opacity: 0.5;
+    }
+}
 // Icons
 .icon {
     width: 60px;
