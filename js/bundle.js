@@ -1,2 +1,2 @@
-"use strict";var a=1,fn=function fn(){console.log("Oh my god, This is ES5!!")},obj={fn:fn},fn2=function fn2(){console.log("Oh my god, This is ES5!!")};obj={fn2:fn2};
+"use strict";function fn(){AOS.init({disable:!1,startEvent:"DOMContentLoaded",initClassName:"aos-init",animatedClassName:"aos-animate",useClassNames:!1,disableMutationObserver:!1,debounceDelay:400,throttleDelay:99,offset:120,delay:0,duration:1e3,easing:"ease-in",once:!0,mirror:!1,anchorPlacement:"top-bottom"})}document.addEventListener("DOMContentLoaded",fn,!1);
 //# sourceMappingURL=bundle.js.map
