@@ -1,6 +1,8 @@
 # Week 2 Personal Website
 第二週，個人網站的建立，主要在熟悉如何使用 flex 進行排版。
 
+使用 [AOS](https://michalsnik.github.io/aos/) 展示效果。
+
 
 ## Installation
 安裝之前，請先確保在本地端電腦中安裝了 Node.js 以及 套件管理工具 NPM。
